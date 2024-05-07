@@ -12,6 +12,7 @@ Libraries Used:
     pandas
     numpy
     os
+    matplotlib
     IPython.display
     librosa
     torchaudio
@@ -19,4 +20,9 @@ Libraries Used:
     gc
     pathlib
     transformers
+    tqdm
+    datasets
+    collections
+    evaluate
+    
     
